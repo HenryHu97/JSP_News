@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Java EE 6">
+    <CLASSES>
+      <root url="jar://D:/java_ee_sdk-8u1/glassfish5/mq/lib/javax.servlet-api.jar!/" />
+      <root url="jar://D:/javajdk/mysql-connector-java-5.1.49.jar/mysql-connector-java-5.1.49-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
